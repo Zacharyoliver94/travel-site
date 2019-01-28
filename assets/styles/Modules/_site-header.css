@@ -40,7 +40,7 @@ z-index:2;
   right: 10px;
 
   @mixin atMedium {
-    display:none;
+    display:none; 
   }
 
 }
